@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://i.ibb.co/wNGy0Q3h/SCR-20260104-swqh.png"
+    src="https://i.ibb.co/ynjQvvJD/SCR-20260104-swqh.jpg"
     alt="Custom GitHub Stats"
     width="900"
   />
